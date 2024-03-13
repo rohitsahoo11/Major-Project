@@ -1,0 +1,1582 @@
+.product-detail-page {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.product-detail-page .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 3066px;
+  position: relative;
+}
+
+.product-detail-page .overlap {
+  position: absolute;
+  width: 1441px;
+  height: 589px;
+  top: 2477px;
+  left: -1px;
+}
+
+.product-detail-page .rectangle {
+  position: absolute;
+  width: 1441px;
+  height: 499px;
+  top: 90px;
+  left: 0;
+  background-color: #efefef;
+}
+
+.product-detail-page .line {
+  position: absolute;
+  width: 1240px;
+  height: 1px;
+  top: 456px;
+  left: 101px;
+  object-fit: cover;
+}
+
+.product-detail-page .frame {
+  display: flex;
+  width: 1240px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 36px 64px;
+  position: absolute;
+  top: 0;
+  left: 101px;
+  background-color: #000000;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.product-detail-page .text-wrapper {
+  position: relative;
+  width: 551px;
+  height: 94px;
+  font-family: "Integral CF-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: 45px;
+}
+
+.product-detail-page .frame-2 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 14px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.product-detail-page .frame-3 {
+  display: flex;
+  width: 349px;
+  align-items: flex-start;
+  padding: 12px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  gap: 12px;
+  border-radius: 62px;
+  overflow: hidden;
+}
+
+.product-detail-page .img {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+
+.product-detail-page .text-wrapper-2 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000066;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .div-wrapper {
+  display: flex;
+  width: 349px;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 12px 16px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #ffffff;
+  border-radius: 62px;
+  overflow: hidden;
+}
+
+.product-detail-page .text-wrapper-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-4 {
+  display: flex;
+  width: 1240px;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: absolute;
+  top: 230px;
+  left: 101px;
+}
+
+.product-detail-page .frame-5 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 35px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.product-detail-page .frame-6 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 25px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.product-detail-page .text-wrapper-4 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Integral CF-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 33.5px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.text-wrapper-4 img{
+  width: 60px;
+}
+.product-detail-page .p {
+  position: relative;
+  width: 248px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.product-detail-page .social {
+  position: relative;
+  width: 148px;
+  height: 28px;
+}
+
+.product-detail-page .element {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 14px;
+  border: 1px solid;
+  border-color: #00000033;
+}
+
+.product-detail-page .logo-twitter {
+  position: absolute;
+  width: 11px;
+  height: 9px;
+  top: 9px;
+  left: 8px;
+}
+
+.product-detail-page .logo-fb-simple-wrapper {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 0;
+  left: 40px;
+  background-color: #000000;
+  border-radius: 14px;
+}
+
+.product-detail-page .logo-fb-simple {
+  position: absolute;
+  width: 6px;
+  height: 12px;
+  top: 8px;
+  left: 11px;
+}
+
+.product-detail-page .logo-instagram-wrapper {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 0;
+  left: 80px;
+  background-color: #ffffff;
+  border-radius: 14px;
+  border: 1px solid;
+  border-color: #00000033;
+}
+
+.product-detail-page .logo-instagram {
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  top: 6px;
+  left: 6px;
+}
+
+.product-detail-page .logo-github-wrapper {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  top: 0;
+  left: 120px;
+  background-color: #ffffff;
+  border-radius: 14px;
+  border: 1px solid;
+  border-color: #00000033;
+}
+
+.product-detail-page .logo-github {
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 6px;
+  left: 7px;
+}
+
+.product-detail-page .frame-7 {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 26px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.product-detail-page .HELP-MENU {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 3px;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.product-detail-page .about-features-works {
+  position: relative;
+  width: fit-content;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.product-detail-page .about-features-works-2 {
+  position: relative;
+  width: 149px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19px;
+}
+
+.product-detail-page .frame-8 {
+  position: absolute;
+  width: 299px;
+  height: 48px;
+  top: 472px;
+  left: 1051px;
+}
+
+.product-detail-page .element-all-rights {
+  position: absolute;
+  top: 481px;
+  left: 101px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 14px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-9 {
+  position: absolute;
+  width: 1440px;
+  height: 38px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+}
+
+.product-detail-page .sign-up-and-get {
+  position: absolute;
+  top: 8px;
+  left: 544px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .span {
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  letter-spacing: 0;
+}
+
+.product-detail-page .text-wrapper-5 {
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  text-decoration: underline;
+}
+
+.product-detail-page .frame-10 {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 9px;
+  left: 1320px;
+}
+
+.product-detail-page .frame-11 {
+  display: flex;
+  width: 1240px;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+  position: absolute;
+  top: 62px;
+  left: 100px;
+}
+
+.product-detail-page .text-wrapper-6 {
+  position: relative;
+  width: fit-content;
+  font-family: "Integral CF-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+.text-wrapper-6 img{
+  width: 50px;
+}
+.product-detail-page .frame-12 {
+  display: inline-flex;
+  align-items: center;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.product-detail-page .frame-13 {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.product-detail-page .text-wrapper-7 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-14 {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+
+.product-detail-page .frame-15 {
+  display: flex;
+  align-items: flex-start;
+  padding: 12px 16px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+  background-color: #efefef;
+  gap: 12px;
+  border-radius: 62px;
+  overflow: hidden;
+}
+
+.product-detail-page .frame-16 {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.product-detail-page .frame-17 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 12px;
+  position: absolute;
+  top: 600px;
+  left: 750px;
+}
+
+.product-detail-page .frame-18 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 12px 24px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #efefef;
+  border-radius: 62px;
+  overflow: hidden;
+}
+
+.product-detail-page .text-wrapper-8 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-19 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 12px 24px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #000000;
+  border-radius: 62px;
+  overflow: hidden;
+}
+
+.product-detail-page .text-wrapper-9 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-20 {
+  display: flex;
+  width: 400px;
+  height: 52px;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 16px 54px;
+  position: absolute;
+  top: 694px;
+  left: 940px;
+  background-color: #000000;
+  border-radius: 62px;
+  overflow: hidden;
+}
+
+.product-detail-page .text-wrapper-10 {
+  position: relative;
+  width: fit-content;
+  margin-top: -2px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-21 {
+  display: flex;
+  width: 230px;
+  height: 52px;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 16px 54px;
+  position: absolute;
+  top: 1762px;
+  left: 605px;
+  border-radius: 62px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #0000001a;
+}
+
+.product-detail-page .text-wrapper-11 {
+  position: relative;
+  width: fit-content;
+  margin-top: -2px;
+  margin-left: -9px;
+  margin-right: -9px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-22 {
+  display: flex;
+  width: 170px;
+  height: 52px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  position: absolute;
+  top: 694px;
+  left: 750px;
+  background-color: #efefef;
+  border-radius: 62px;
+  overflow: hidden;
+}
+
+.product-detail-page .frame-23 {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  margin-top: -2px;
+  margin-bottom: -2px;
+}
+
+.product-detail-page .text-wrapper-12 {
+  position: relative;
+  width: fit-content;
+  margin-top: -2px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-24 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 10px;
+  position: absolute;
+  top: 888px;
+  left: 986px;
+}
+
+.product-detail-page .frame-25 {
+  position: relative;
+  width: 48px;
+  height: 48px;
+}
+
+.product-detail-page .frame-26 {
+  display: flex;
+  width: 120px;
+  height: 48px;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  position: relative;
+  background-color: #efefef;
+  border-radius: 62px;
+  overflow: hidden;
+}
+
+.product-detail-page .text-wrapper-13 {
+  position: relative;
+  width: fit-content;
+  margin-top: -4px;
+  margin-bottom: -2px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-27 {
+  display: flex;
+  width: 166px;
+  height: 48px;
+  align-items: center;
+  justify-content: space-around;
+  gap: 12px;
+  padding: 16px 20px;
+  position: relative;
+  background-color: #000000;
+  border-radius: 62px;
+  overflow: hidden;
+}
+
+.product-detail-page .text-wrapper-14 {
+  position: relative;
+  width: fit-content;
+  margin-top: -4px;
+  margin-bottom: -2px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-28 {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 14px;
+  position: absolute;
+  top: 321px;
+  left: 938px;
+  background-color: #ff33331a;
+  gap: 12px;
+  border-radius: 62px;
+  overflow: hidden;
+}
+
+.product-detail-page .text-wrapper-15 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #ff3333;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-29 {
+  display: flex;
+  width: 58px;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 6px 14px;
+  position: absolute;
+  top: 2369px;
+  left: 231px;
+  background-color: #ff33331a;
+  border-radius: 62px;
+  overflow: hidden;
+}
+
+.product-detail-page .text-wrapper-16 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-left: -0.5px;
+  margin-right: -0.5px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #ff3333;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .text-wrapper-17 {
+  position: absolute;
+  height: 48px;
+  top: 215px;
+  left: 750px;
+  font-family: "Integral CF-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.product-detail-page .text-wrapper-18 {
+  position: absolute;
+  height: 58px;
+  top: 1877px;
+  left: 431px;
+  font-family: "Integral CF-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-30 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 12px;
+  position: absolute;
+  top: 317px;
+  left: 750px;
+}
+
+.product-detail-page .text-wrapper-19 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .text-wrapper-20 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  color: #0000004c;
+  font-size: 32px;
+  text-decoration: line-through;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-31 {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  position: absolute;
+  top: 158px;
+  left: 100px;
+}
+
+.product-detail-page .text-wrapper-21 {
+  position: relative;
+  width: fit-content;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.product-detail-page .text-wrapper-22 {
+  position: absolute;
+  top: 460px;
+  left: 750px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.product-detail-page .text-wrapper-23 {
+  position: absolute;
+  width: 590px;
+  top: 379px;
+  left: 750px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.product-detail-page .text-wrapper-24 {
+  position: absolute;
+  height: 32px;
+  top: 895px;
+  left: 100px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .text-wrapper-25 {
+  position: absolute;
+  top: 909px;
+  left: 233px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.product-detail-page .text-wrapper-26 {
+  position: absolute;
+  top: 825px;
+  left: 240px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.product-detail-page .rating-reviews {
+  position: absolute;
+  top: 825px;
+  left: 642px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #000000;
+  font-size: 20px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.product-detail-page .text-wrapper-27 {
+  position: absolute;
+  top: 825px;
+  left: 1110px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 20px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.product-detail-page .text-wrapper-28 {
+  position: absolute;
+  top: 572px;
+  left: 750px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.product-detail-page .image {
+  position: absolute;
+  width: 444px;
+  height: 530px;
+  top: 216px;
+  left: 266px;
+}
+
+.product-detail-page .image-2 {
+  position: absolute;
+  width: 152px;
+  height: 167px;
+  top: 216px;
+  left: 100px;
+  object-fit: cover;
+}
+
+.product-detail-page .image-3 {
+  position: absolute;
+  width: 152px;
+  height: 168px;
+  top: 397px;
+  left: 100px;
+  object-fit: cover;
+}
+
+.product-detail-page .image-4 {
+  position: absolute;
+  width: 152px;
+  height: 167px;
+  top: 579px;
+  left: 100px;
+  object-fit: cover;
+}
+
+.product-detail-page .frame-32 {
+  display: inline-flex;
+  align-items: center;
+  gap: 16px;
+  position: absolute;
+  top: 278px;
+  left: 750px;
+}
+
+.product-detail-page .frame-33 {
+  gap: 7.1px;
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.product-detail-page .star {
+  position: relative;
+  width: 23.5px;
+  height: 22.35px;
+}
+
+.product-detail-page .star-2 {
+  position: relative;
+  width: 11.75px;
+  height: 22.35px;
+}
+
+.product-detail-page .element-2 {
+  position: relative;
+  width: fit-content;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .text-wrapper-29 {
+  color: #000000;
+}
+
+.product-detail-page .text-wrapper-30 {
+  color: #00000099;
+}
+
+.product-detail-page .frame-34 {
+  display: inline-flex;
+  align-items: center;
+  gap: 13px;
+  position: absolute;
+  top: 2340px;
+  left: 100px;
+}
+
+.product-detail-page .frame-35 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 5.31px;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.product-detail-page .star-3 {
+  position: relative;
+  width: 17.58px;
+  height: 16.72px;
+}
+
+.product-detail-page .element-3 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-36 {
+  display: inline-flex;
+  align-items: center;
+  gap: 13px;
+  position: absolute;
+  top: 2340px;
+  left: 415px;
+}
+
+.product-detail-page .star-4 {
+  position: relative;
+  width: 8.79px;
+  height: 16.72px;
+}
+
+.product-detail-page .frame-37 {
+  display: inline-flex;
+  align-items: center;
+  gap: 13px;
+  position: absolute;
+  top: 2340px;
+  left: 730px;
+}
+
+.product-detail-page .frame-38 {
+  display: inline-flex;
+  align-items: center;
+  gap: 13px;
+  position: absolute;
+  top: 2340px;
+  left: 1045px;
+}
+
+.product-detail-page .line-2 {
+  position: absolute;
+  width: 590px;
+  height: 1px;
+  top: 436px;
+  left: 750px;
+  object-fit: cover;
+}
+
+.product-detail-page .overlap-group {
+  position: absolute;
+  width: 1240px;
+  height: 2px;
+  top: 862px;
+  left: 100px;
+}
+
+.product-detail-page .line-3 {
+  position: absolute;
+  width: 1240px;
+  height: 1px;
+  top: 1px;
+  left: 0;
+  object-fit: cover;
+}
+
+.product-detail-page .line-4 {
+  position: absolute;
+  width: 414px;
+  height: 2px;
+  top: 0;
+  left: 413px;
+}
+
+.product-detail-page .line-5 {
+  position: absolute;
+  width: 1240px;
+  height: 1px;
+  top: 133px;
+  left: 100px;
+  object-fit: cover;
+}
+
+.product-detail-page .line-6 {
+  position: absolute;
+  width: 590px;
+  height: 1px;
+  top: 548px;
+  left: 750px;
+  object-fit: cover;
+}
+
+.product-detail-page .line-7 {
+  position: absolute;
+  width: 590px;
+  height: 1px;
+  top: 669px;
+  left: 750px;
+  object-fit: cover;
+}
+
+.product-detail-page .frame-39 {
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 16px;
+  position: absolute;
+  top: 488px;
+  left: 750px;
+}
+
+.product-detail-page .group {
+  position: relative;
+  width: 37px;
+  height: 37px;
+  background-color: #4f4631;
+  border-radius: 18.5px;
+}
+
+.product-detail-page .frame-40 {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 10px;
+  left: 10px;
+}
+
+.product-detail-page .ellipse {
+  background-color: #314f49;
+  position: relative;
+  width: 37px;
+  height: 37px;
+  border-radius: 18.5px;
+}
+
+.product-detail-page .ellipse-2 {
+  background-color: #31344f;
+  position: relative;
+  width: 37px;
+  height: 37px;
+  border-radius: 18.5px;
+}
+
+.product-detail-page .frame-41 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 610px;
+  align-items: flex-start;
+  gap: 342px 24px;
+  padding: 28px 32px;
+  position: absolute;
+  top: 960px;
+  left: 100px;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #0000001a;
+}
+
+.product-detail-page .frame-42 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.product-detail-page .frame-43 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 15px;
+  position: relative;
+  flex: 1;
+  flex-grow: 1;
+}
+
+.product-detail-page .frame-44 {
+  gap: 6.49px;
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.product-detail-page .star-5 {
+  position: relative;
+  width: 21.47px;
+  height: 20.42px;
+}
+
+.product-detail-page .star-6 {
+  position: relative;
+  width: 10.74px;
+  height: 20.42px;
+}
+
+.product-detail-page .frame-45 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 12px;
+  position: relative;
+  align-self: stretch;
+  width: 100%;
+  flex: 0 0 auto;
+}
+
+.product-detail-page .text-wrapper-31 {
+  position: relative;
+  width: fit-content;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 22px;
+  white-space: nowrap;
+}
+
+.product-detail-page .text-wrapper-32 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Satoshi-Regular", Helvetica;
+  font-weight: 400;
+  color: #00000099;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.product-detail-page .text-wrapper-33 {
+  position: relative;
+  width: 546px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #00000099;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22px;
+}
+
+.product-detail-page .frame-46 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 610px;
+  align-items: flex-start;
+  gap: 342px 24px;
+  padding: 28px 32px;
+  position: absolute;
+  top: 1222px;
+  left: 100px;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #0000001a;
+}
+
+.product-detail-page .frame-47 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 610px;
+  align-items: flex-start;
+  gap: 342px 24px;
+  padding: 28px 32px;
+  position: absolute;
+  top: 1484px;
+  left: 100px;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #0000001a;
+}
+
+.product-detail-page .frame-48 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 610px;
+  align-items: flex-start;
+  gap: 342px 24px;
+  padding: 28px 32px;
+  position: absolute;
+  top: 960px;
+  left: 730px;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #0000001a;
+}
+
+.product-detail-page .frame-49 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 610px;
+  align-items: flex-start;
+  gap: 342px 24px;
+  padding: 28px 32px;
+  position: absolute;
+  top: 1222px;
+  left: 730px;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #0000001a;
+}
+
+.product-detail-page .frame-50 {
+  display: flex;
+  flex-wrap: wrap;
+  width: 610px;
+  align-items: flex-start;
+  gap: 342px 24px;
+  padding: 28px 32px;
+  position: absolute;
+  top: 1484px;
+  left: 730px;
+  border-radius: 20px;
+  overflow: hidden;
+  border: 1px solid;
+  border-color: #0000001a;
+}
+
+.product-detail-page .image-wrapper {
+  position: absolute;
+  width: 295px;
+  height: 298px;
+  top: 1991px;
+  left: 100px;
+  background-color: #f0eeed;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.product-detail-page .image-5 {
+  position: absolute;
+  width: 295px;
+  height: 298px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.product-detail-page .img-wrapper {
+  position: absolute;
+  width: 295px;
+  height: 298px;
+  top: 1991px;
+  left: 415px;
+  background-color: #f0eeed;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.product-detail-page .image-6 {
+  position: absolute;
+  width: 294px;
+  height: 298px;
+  top: 0;
+  left: 1px;
+  object-fit: cover;
+}
+
+.product-detail-page .frame-51 {
+  position: absolute;
+  width: 295px;
+  height: 298px;
+  top: 1991px;
+  left: 730px;
+  background-color: #f0eeed;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.product-detail-page .frame-52 {
+  position: absolute;
+  width: 295px;
+  height: 298px;
+  top: 1991px;
+  left: 1045px;
+  background-color: #f0eeed;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+.product-detail-page .text-wrapper-34 {
+  position: absolute;
+  height: 27px;
+  top: 2304px;
+  left: 100px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .text-wrapper-35 {
+  position: absolute;
+  height: 27px;
+  top: 2304px;
+  left: 415px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .text-wrapper-36 {
+  position: absolute;
+  height: 27px;
+  top: 2304px;
+  left: 730px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .text-wrapper-37 {
+  position: absolute;
+  height: 27px;
+  top: 2304px;
+  left: 1045px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  color: #000000;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .text-wrapper-38 {
+  position: absolute;
+  height: 32px;
+  top: 2366px;
+  left: 100px;
+  color: #000000;
+  font-size: 24px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .text-wrapper-39 {
+  position: absolute;
+  height: 32px;
+  top: 2366px;
+  left: 163px;
+  color: #00000066;
+  font-size: 24px;
+  text-decoration: line-through;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-53 {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  position: absolute;
+  top: 2367px;
+  left: 1045px;
+}
+
+.product-detail-page .text-wrapper-40 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  color: #000000;
+  font-size: 24px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .text-wrapper-41 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  color: #00000066;
+  font-size: 24px;
+  text-decoration: line-through;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .frame-54 {
+  display: flex;
+  width: 58px;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  padding: 6px 14px;
+  position: relative;
+  background-color: #ff33331a;
+  border-radius: 62px;
+  overflow: hidden;
+}
+
+.product-detail-page .text-wrapper-42 {
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  margin-left: -1px;
+  margin-right: -1px;
+  font-family: "Satoshi-Medium", Helvetica;
+  font-weight: 500;
+  color: #ff3333;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .text-wrapper-43 {
+  position: absolute;
+  height: 32px;
+  top: 2366px;
+  left: 415px;
+  color: #000000;
+  font-size: 24px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.product-detail-page .text-wrapper-44 {
+  position: absolute;
+  height: 32px;
+  top: 2366px;
+  left: 730px;
+  color: #000000;
+  font-size: 24px;
+  font-family: "Satoshi-Bold", Helvetica;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+}
