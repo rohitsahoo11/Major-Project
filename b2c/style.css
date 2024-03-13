@@ -211,6 +211,7 @@
 }
 .text-wrapper-6 img{
   width: 50px;
+  border-radius: 50%;
 }
 .homepage .frame-7 {
   display: inline-flex;
@@ -1506,6 +1507,7 @@
 }
 .text-wrapper-32 img{
   width: 60px;
+  border-radius: 50%;
 }
 .homepage .text-wrapper-33 {
   position: relative;
